@@ -1,4 +1,5 @@
 # uPiano
+https://www.youtube.com/watch?v=RGpzZSeK8uA
 
 This concept project is an independent proposition, a part of a distance online course for embedded systems and microcontrollers. 
 Code writing and designing process was guided by Dr. Jonathan W Valvano. Using the following references: 
